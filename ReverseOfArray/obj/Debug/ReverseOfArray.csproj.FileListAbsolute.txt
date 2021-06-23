@@ -1,6 +1,0 @@
-C:\Users\PC\source\repos\ReverseOfArray\bin\Debug\ReverseOfArray.exe.config
-C:\Users\PC\source\repos\ReverseOfArray\bin\Debug\ReverseOfArray.exe
-C:\Users\PC\source\repos\ReverseOfArray\bin\Debug\ReverseOfArray.pdb
-C:\Users\PC\source\repos\ReverseOfArray\obj\Debug\ReverseOfArray.csproj.CoreCompileInputs.cache
-C:\Users\PC\source\repos\ReverseOfArray\obj\Debug\ReverseOfArray.exe
-C:\Users\PC\source\repos\ReverseOfArray\obj\Debug\ReverseOfArray.pdb
