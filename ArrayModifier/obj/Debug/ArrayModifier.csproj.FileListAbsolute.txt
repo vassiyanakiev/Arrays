@@ -1,7 +1,0 @@
-C:\Users\PC\source\repos\ArrayModifier\bin\Debug\ArrayModifier.exe.config
-C:\Users\PC\source\repos\ArrayModifier\bin\Debug\ArrayModifier.exe
-C:\Users\PC\source\repos\ArrayModifier\bin\Debug\ArrayModifier.pdb
-C:\Users\PC\source\repos\ArrayModifier\obj\Debug\ArrayModifier.csprojAssemblyReference.cache
-C:\Users\PC\source\repos\ArrayModifier\obj\Debug\ArrayModifier.csproj.CoreCompileInputs.cache
-C:\Users\PC\source\repos\ArrayModifier\obj\Debug\ArrayModifier.exe
-C:\Users\PC\source\repos\ArrayModifier\obj\Debug\ArrayModifier.pdb
