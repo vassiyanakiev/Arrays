@@ -1,7 +1,0 @@
-C:\Users\PC\source\repos\MergeSortedArrays\bin\Debug\MergeSortedArrays.exe.config
-C:\Users\PC\source\repos\MergeSortedArrays\bin\Debug\MergeSortedArrays.exe
-C:\Users\PC\source\repos\MergeSortedArrays\bin\Debug\MergeSortedArrays.pdb
-C:\Users\PC\source\repos\MergeSortedArrays\obj\Debug\MergeSortedArrays.csprojAssemblyReference.cache
-C:\Users\PC\source\repos\MergeSortedArrays\obj\Debug\MergeSortedArrays.csproj.CoreCompileInputs.cache
-C:\Users\PC\source\repos\MergeSortedArrays\obj\Debug\MergeSortedArrays.exe
-C:\Users\PC\source\repos\MergeSortedArrays\obj\Debug\MergeSortedArrays.pdb
